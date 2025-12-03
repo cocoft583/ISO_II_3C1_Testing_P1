@@ -9,12 +9,12 @@ public class InterfazUsuario {
         this.scanner = new Scanner(System.in);
     }
 
-    // Método para escribir en pantalla (requisito: escribir cadenas y números)
+    // Método para escribir en pantalla
     public void escribir(String mensaje) {
         System.out.println(mensaje);
     }
 
-    // Método para leer enteros controlando excepciones de formato (letras)
+    // Método para leer enteros controlando excepciones de formato 
     public int leerEntero(String mensaje) throws NumberFormatException {
         System.out.print(mensaje + " ");
         String entrada = scanner.nextLine();

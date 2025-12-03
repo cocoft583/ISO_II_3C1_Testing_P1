@@ -9,10 +9,9 @@ public class App {
 
         while (continuar) {
             try {
-                interfaz.escribir("--- COMPROBADOR DE AÑO BISIESTO ---");
+                interfaz.escribir("COMPROBADOR DE AÑO BISIESTO.");
                 
-                // 1. Leemos el dato usando el componente de UI
-                // Esto puede lanzar NumberFormatException si escriben letras
+                // 1. Leemos el dato usando el componente de interfaz
                 int valorAnio = interfaz.leerEntero("Introduzca un año (o escriba '0' para salir):");
 
                 if (valorAnio == 0) {
