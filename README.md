@@ -4,11 +4,5 @@ Este repositorio se usará para realizar el problema 1 del Segundo Ejercicio Te�
 | Problema | Tarea | Pareja Responsable |
 | :---: | :---: | :---: |
 | **Problema 1 (ET.02.02)** | **Paso 1: Implementación del Programa** | Andrés Doncel - Adrián Delgado |
-| **Problema 1 (ET.02.02)** | **Paso 2: Diseño de Casos de Prueba (Ejercicio Teórico)** | Alberto Barato - Jorge Assis |
-| **Problema 1 (ET.02.02)** | **Paso 3: Implementación de Pruebas jUnit (Prácticas)** | Sebastián Medina - David Dionisio |
-| **Problema 2 (ET.02.03)** | **Paso 1: Implementación del Programa** | Alberto Barato - Jorge Assis |
-| **Problema 2 (ET.02.03)** | **Paso 2: Diseño de Casos de Prueba (Ejercicio Teórico)** | Sebastián Medina - David Dionisio |
-| **Problema 2 (ET.02.03)** | **Paso 3: Implementación de Pruebas jUnit (Prácticas)** | Andrés Doncel - Adrián Delgado |
-| **Problema 3 (ET.02.04)** | **Paso 1: Implementación del Programa** | Sebastián Medina - David Dionisio |
-| **Problema 3 (ET.02.04)** | **Paso 2: Diseño de Casos de Prueba (Ejercicio Teórico)** | Andrés Doncel - Adrián Delgado |
-| **Problema 3 (ET.02.04)** | **Paso 3: Implementación de Pruebas jUnit (Prácticas)** | Alberto Barato - Jorge Assis |
+| **Problema 1 (ET.02.02)** | **Paso 2: Diseño de Casos de Prueba (Ejercicio Teórico)** | Sebastián Medina - David Dionisio |
+| **Problema 1 (ET.02.02)** | **Paso 3: Implementación de Pruebas jUnit (Prácticas)** | Alberto Barato - Jorge Assís de Oliveira |
