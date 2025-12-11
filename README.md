@@ -3,6 +3,6 @@ Este repositorio se usará para realizar el problema 1 del Segundo Ejercicio Te�
 
 | Problema | Tarea | Pareja Responsable |
 | :---: | :---: | :---: |
-| **Problema 1 (ET.02.04)** | **Paso 1: Implementación del Programa** | Adrían Delgado - Andrés Doncel |
-| **Problema 1 (ET.02.04)** | **Paso 2: Diseño de Casos de Prueba (Ejercicio Teórico)** | [Nombre Pareja 2] |
-| **Problema 1 (ET.02.04)** | **Paso 3: Implementación de Pruebas jUnit (Prácticas)** | [Nombre Pareja 3] |
+| **Problema 1 (ET.02.02)** | **Paso 1: Implementación del Programa** | Adrían Delgado - Andrés Doncel |
+| **Problema 1 (ET.02.02)** | **Paso 2: Diseño de Casos de Prueba (Ejercicio Teórico)** | [Nombre Pareja 2] |
+| **Problema 1 (ET.02.02)** | **Paso 3: Implementación de Pruebas jUnit (Prácticas)** | [Nombre Pareja 3] |
