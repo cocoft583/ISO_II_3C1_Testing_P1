@@ -7,17 +7,13 @@ public class AñoTest {
 
     // --- PRUEBAS DE CONSTRUCTOR ---
 
-    // NOTA: Veo que tienes un archivo 'FechaInvalidaException.java'.
-    // Si tu clase Año lanza esa excepción en lugar de IllegalArgumentException,
-    // cambia 'IllegalArgumentException.class' por 'FechaInvalidaException.class' aquí abajo.
-
-    @Test(expected = IllegalArgumentException.class)
+    @Test(expected = FechaInvalidaException.class)
     public void testConstructor_Invalido_MenorQueMenos45() throws FechaInvalidaException {
         // Valor según tabla de equivalencia
         new Año(-80); 
     }
 
-    @Test(expected = IllegalArgumentException.class)
+    @Test(expected = FechaInvalidaException.class)
     public void testConstructor_Invalido_Cero() throws FechaInvalidaException {
         // Valor según tabla de equivalencia
         new Año(0);
