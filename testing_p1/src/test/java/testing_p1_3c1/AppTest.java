@@ -1,4 +1,4 @@
-package test.java.testing_p1_3c1;
+package testing_p1_3c1;
 
 import static org.junit.Assert.assertTrue;
 
